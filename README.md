@@ -1,4 +1,4 @@
 # Project boost
-Unity Game Developer course - section 3
+[Unity Game Developer course](https://relxlearning.udemy.com/course/unitycourse2/) - section 3
 
-Made in Unity version 2019.4.20f1
+Made with Unity version 2019.4.20f1
